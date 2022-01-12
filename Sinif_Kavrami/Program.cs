@@ -1,4 +1,4 @@
-﻿using System;
+﻿uusing System;
 
 namespace Sinif_Kavrami
 {
